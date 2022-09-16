@@ -1,0 +1,70 @@
+﻿body {
+    font: 14px sans-serif;
+    text-align: center;
+}
+
+.main-container {
+    width: 40%;
+    margin: auto;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    margin-top: 100px;
+}
+
+.reset-link {
+    margin-right: 40px;
+}
+
+div{
+    padding: 5px;
+}
+
+.confirm-btn {
+    margin-right: 40px;
+}
+
+.list-etudiants{
+
+margin-top: 10px;
+}
+
+.form-body{
+    background-color: gainsboro ;
+    padding: 10px;
+}
+
+.table-container{
+    margin-left:auto;
+    margin-right:auto;
+}
+a {
+    text-decoration: none;
+  }
+
+.entete {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+td {
+    padding: 5px;
+}
+
+.submit-btn {
+    margin-right: 10px;
+}
+
+.btn-soumettre {
+    margin-right: 20px;
+}
+
+.btns {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
